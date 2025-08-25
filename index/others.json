@@ -44,6 +44,52 @@
 		]
 	},
 	{
+		"id": "ZwMKEiJwq0I",
+		"title": "FIFTY FIFTY - TAKE MY HAND (\u0027함께학교\u0027) DANCE CHALLENGE (샤넬\u0026아테나 ver.)",
+		"uploader": "GALACTIKA *",
+		"channel_id": "UCbH6KmHdx2LfM3g3YaHNpeg",
+		"channel_url": "https://www.youtube.com/channel/UCbH6KmHdx2LfM3g3YaHNpeg",
+		"duration": 33,
+		"duration_string": "33",
+		"upload_date": "20250825",
+		"timestamp": 1756090839,
+		"view_count": 2644,
+		"like_count": 325,
+		"release_timestamp": null,
+		"comment_count": 14,
+		"description": "*\n[교육부 X FIFTY FIFTY] 함께학교 캠페인송 | Take My Hand\n\n교육부와 피프티피프티 (FIFTY FIFTY), K-POP 프로덕션 갈락티카 * 의 콜라보레이션!\n뮤직비디오 풀 버전을 들으러 가시려면 프로필을 클릭하세요!\n\n#교육부 #함께학교 #디지털소통플랫폼 #togetherschool #피프티피프티 #FIFTYFIFTY #캠페인송 #TakeMyHand #내손을잡아줘",
+		"tags": [
+			"Together School Campaign",
+			"Collaboration",
+			"Ministry of Education (Korea)",
+			"Theme Song"
+		],
+		"categories": [
+			"Music",
+			"Challenges"
+		],
+		"live_status": "not_live",
+		"was_live": false,
+		"is_live": false,
+		"media_type": "short",
+		"webpage_url": "https://www.youtube.com/watch?v=ZwMKEiJwq0I",
+		"subtitles": null,
+		"thumbnail": "https://i.ytimg.com/vi/ZwMKEiJwq0I/maxresdefault.jpg",
+		"thumbnails": {
+			"default": "https://i.ytimg.com/vi/ZwMKEiJwq0I/default.jpg?sqp=-oaymwEmCHgQWvKriqkDHBgA8AEB-AG2CIACgA-KAgwIABABGEMgWChlMA8=\u0026rs=AOn4CLAc4wHg2qlvfGBI8SMQdQk2R0e4UA",
+			"mqdefault": "https://i.ytimg.com/vi/ZwMKEiJwq0I/mqdefault.jpg?sqp=-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYQyBYKGUwDw==\u0026rs=AOn4CLA9tK2hSDIFeCfRFUEwGkSMZ7122Q",
+			"hqdefault": "https://i.ytimg.com/vi/ZwMKEiJwq0I/hqdefault.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYQyBYKGUwDw==\u0026rs=AOn4CLCtZGAztr-uVjeQttJ4_CYZjxWI7w",
+			"sddefault": "https://i.ytimg.com/vi/ZwMKEiJwq0I/sddefault.jpg?sqp=-oaymwEoCIAFEOAD8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYQyBYKGUwDw==\u0026rs=AOn4CLDXxwXxu_jpM7K4Qolti3Ug0G5w7g",
+			"maxresdefault": "https://i.ytimg.com/vi/ZwMKEiJwq0I/maxresdefault.jpg"
+		},
+		"platform": "youtube",
+		"series": "[Ministry of Education X FIFTY FIFTY] Together School Campaign",
+		"cast": [
+			"CHANELLE MOON",
+			"ATHENA"
+		]
+	},
+	{
 		"id": "MmfJoDj8Gu4",
 		"title": "#FIFTYFIFTY #키나 님과 chew bubble gum🫧😎",
 		"uploader": "Kep1er",
@@ -207,7 +253,8 @@
 			"as Guest"
 		],
 		"categories": [
-			"Radio"
+			"Radio",
+			"Variety"
 		],
 		"live_status": "was_live",
 		"was_live": true,
@@ -255,7 +302,8 @@
 		],
 		"categories": [
 			"Entertainment",
-			"Web Shows"
+			"Web Shows",
+			"Variety"
 		],
 		"live_status": "not_live",
 		"was_live": false,
