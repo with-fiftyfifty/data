@@ -1,5 +1,3 @@
-# Data for with-fifty-fifty.
-
 # Video Dataset Contribution Guide
 
 Contributors can help improve the dataset by adding or modifying categories, tags, series, and cast names. Currently, only official or professionally produced content is added. No fan-made or fancam content is currently allowed.
@@ -39,10 +37,10 @@ Each video entry follows this format, sourced from the original platform, extrac
 		"subtitles": null,
 		"thumbnail": "https://i.ytimg.com/vi/S4M6tAictVs/maxresdefault.jpg",
 		"thumbnails": {
-			"default": "https://i.ytimg.com/vi/S4M6tAictVs/default.jpg?sqp=-oaymwEmCHgQWvKriqkDHBgA8AEB-AG0CIACgA-KAgwIABABGEggWChlMA8=&rs=AOn4CLAVEo3WIqbQ-_qfk75RBKVcIfZtPQ",
-			"mqdefault": "https://i.ytimg.com/vi/S4M6tAictVs/mqdefault.jpg?sqp=-oaymwEoCMACELQB8quKqQMcGADwAQH4AbQIgAKAD4oCDAgAEAEYSCBYKGUwDw==&rs=AOn4CLAMVNDnMLf_BTmttxH_eJvS0VWsLQ",
-			"hqdefault": "https://i.ytimg.com/vi/S4M6tAictVs/hqdefault.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbQIgAKAD4oCDAgAEAEYSCBYKGUwDw==&rs=AOn4CLBY-gqNf-W03gM-Hb1ExvJ7m5z-SA",
-			"sddefault": "https://i.ytimg.com/vi/S4M6tAictVs/sddefault.jpg?sqp=-oaymwEoCIAFEOAD8quKqQMcGADwAQH4AbQIgAKAD4oCDAgAEAEYSCBYKGUwDw==&rs=AOn4CLDD51UZWaUo9ip1Y7CHhWLHvT7mhg",
+			"default": "https://i.ytimg.com/vi/S4M6tAictVs/default.jpg",
+			"mqdefault": "https://i.ytimg.com/vi/S4M6tAictVs/mqdefault.jpg",
+			"hqdefault": "https://i.ytimg.com/vi/S4M6tAictVs/hqdefault.jpg",
+			"sddefault": "https://i.ytimg.com/vi/S4M6tAictVs/sddefault.jpg",
 			"maxresdefault": "https://i.ytimg.com/vi/S4M6tAictVs/maxresdefault.jpg"
 		},
 		"platform": "youtube",
@@ -122,6 +120,13 @@ Example:
 * "ATHENA"
 * "MINJU (Illit)"
 * "ISA (StayC)"
+
+## Series
+
+Example:
+
+* Fifty Trip
+* Pookie Challenge
 
 ## Subtitles
 
