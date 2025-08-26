@@ -15,7 +15,10 @@
 		"comment_count": 156,
 		"description": "",
 		"tags": [
-			"Illit"
+			"Illit",
+			"YEWON",
+			"YUNAH (ILLIT)",
+			"CHANELLE MOON"
 		],
 		"categories": [
 			"Music",
@@ -62,7 +65,11 @@
 			"Together School Campaign",
 			"Collaboration",
 			"Ministry of Education (Korea)",
-			"Theme Song"
+			"Theme Song",
+			"ATHENA",
+			"CHANELLE MOON",
+			"YEWON",
+			"HANA"
 		],
 		"categories": [
 			"Music",
@@ -105,10 +112,11 @@
 		"comment_count": 32,
 		"description": "#BUBBLE_GUM\n#Kep1er #케플러\n#김채현 #CHAEHYUN \n#김다연 #DAYEON\n#피프티피프티 #KEENA @WE_FIFTYFIFTY",
 		"tags": [
-			"Kep1er"
+			"Kep1er",
+			"CHAEHYUN (Kep1er)",
+			"DAYEON (Kep1er)"
 		],
 		"categories": [
-			"Entertainment",
 			"Challenges"
 		],
 		"live_status": "not_live",
@@ -280,6 +288,63 @@
 		]
 	},
 	{
+		"id": "DP2O1y9pDKo",
+		"title": "[STAY:SEE] #167 I WANT IT 챌린지 모음.Zip📁 | ‘I WANT IT’ 챌린지 Behind",
+		"uploader": "STAYC",
+		"channel_id": "UCod5V2dpnpJLklGvVOv5FcQ",
+		"channel_url": "https://www.youtube.com/channel/UCod5V2dpnpJLklGvVOv5FcQ",
+		"duration": 793,
+		"duration_string": "13:13",
+		"upload_date": "20250819",
+		"timestamp": 1755601219,
+		"view_count": 15548,
+		"like_count": 1573,
+		"release_timestamp": null,
+		"comment_count": 96,
+		"description": "[STAY:SEE] #167 I WANT IT 챌린지 모음.Zip📁 | ‘I WANT IT’ 챌린지 Behind\n\n#STAYC #스테이씨\n#I_WANT_IT #IWI\n \n \n[STAYC Official SNS] \nYouTube ▶ https://www.youtube.com/c/STAYC\nInstagram ▶ https://www.instagram.com/stayc_highup\nX ▶ https://x.com/STAYC_official\nNAVER TV ▶ https://tv.naver.com/stayc\nFacebook ▶ https://www.facebook.com/STAYC201112\nTikTok ▶ https://www.tiktok.com/@stayc_official\nWeverse ▶ https://www.weverse.io/stayc/feed\nFancafe ▶ https://cafe.daum.net/STAYC\nWeibo ▶ https://weibo.com/STAYChighup\nBilibili ▶ https://space.bilibili.com/1046238272\nDouyin ▶ https://v.douyin.com/iSgpG1Vg",
+		"tags": [
+			"STAYC (STAYC)",
+			"SUMIN (STAYC)",
+			"SIEUN (STAYC)",
+			"ISA (STAYC)",
+			"SEEUN (STAYC)",
+			"YOON (STAYC)",
+			"KEENA",
+			"as Guest",
+			"brief appearance"
+		],
+		"categories": [
+			"Challenges",
+			"Behind The Scenes"
+		],
+		"live_status": "not_live",
+		"was_live": false,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://www.youtube.com/watch?v=DP2O1y9pDKo",
+		"subtitles": [
+			"zh",
+			"en",
+			"id",
+			"ja",
+			"ko",
+			"es"
+		],
+		"thumbnail": "https://i.ytimg.com/vi/DP2O1y9pDKo/maxresdefault.jpg",
+		"thumbnails": {
+			"default": "https://i.ytimg.com/vi/DP2O1y9pDKo/default.jpg",
+			"mqdefault": "https://i.ytimg.com/vi/DP2O1y9pDKo/mqdefault.jpg",
+			"hqdefault": "https://i.ytimg.com/vi/DP2O1y9pDKo/hqdefault.jpg",
+			"sddefault": "https://i.ytimg.com/vi/DP2O1y9pDKo/sddefault.jpg",
+			"maxresdefault": "https://i.ytimg.com/vi/DP2O1y9pDKo/maxresdefault.jpg"
+		},
+		"platform": "youtube",
+		"series": "[STAY:SEE]",
+		"cast": [
+			"KEENA"
+		]
+	},
+	{
 		"id": "1dbbg03gLAI",
 		"title": "[EN/JP/CN] 🔥너네 욕심난다🔥 이번엔 여돌버전 춤 들고온 실력 최강자😍 | EP.4 FIFTYFIFTY | 이쪽으로올래S3",
 		"uploader": "DNE comment \"Hey, Come here\"",
@@ -301,7 +366,6 @@
 			"donghae"
 		],
 		"categories": [
-			"Entertainment",
 			"Web Shows",
 			"Variety"
 		],
