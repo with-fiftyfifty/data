@@ -45,7 +45,7 @@ Each video entry follows this format, sourced from the original platform, extrac
 		},
 		"platform": "youtube",
 		"series": "Pookie Challenge",
-		"cast": [
+		"casts": [
 			"YEWON",
 			"CHANELLE MOON",
 			"YUNAH (ILLIT)"
