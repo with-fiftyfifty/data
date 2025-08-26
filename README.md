@@ -45,7 +45,7 @@ Each video entry follows this format, sourced from the original platform, extrac
 		},
 		"platform": "youtube",
 		"series": "Pookie Challenge",
-		"casts": [
+		"cast": [
 			"YEWON",
 			"CHANELLE MOON",
 			"YUNAH (ILLIT)"
@@ -88,7 +88,8 @@ Available categories for filtering:
 * Variety
 * Live Performance
 * Radio
-* Challenges
+* Challenges - For branded/promotional/collab challenges
+* Shortfrom Challenges - For general/viral/SNS challenges
 * Clips
 * Interview
 * Behind the Scenes
@@ -102,7 +103,6 @@ Use these tags to stay consistent:
 * Dance
 * Reaction
 * Cover
-* Challenges
 * *Name of the challenges, show or cast involved can also be added*
 
 Add a new tag only if it can be reused across multiple videos. Tags are more lax, flexible and mainly intended to improve searchability.
@@ -118,8 +118,8 @@ Example:
 * "MOON CHANELLE"
 * "HANA"
 * "ATHENA"
-* "MINJU (Illit)"
-* "ISA (StayC)"
+* "MINJU (ILLIT)"
+* "ISA (STAYC)"
 
 ## Series
 
