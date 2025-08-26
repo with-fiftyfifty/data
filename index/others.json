@@ -39,7 +39,7 @@
 		},
 		"platform": "youtube",
 		"series": "Stupid Challenge",
-		"cast": [
+		"casts": [
 			"KEENA",
 			"PARK WOOJIN (AB6IX)"
 		]
@@ -88,7 +88,7 @@
 		},
 		"platform": "youtube",
 		"series": null,
-		"cast": [
+		"casts": [
 			"KEENA",
 			"YEWON",
 			"CHANELLE MOON",
@@ -136,7 +136,7 @@
 		},
 		"platform": "youtube",
 		"series": "Illit - Jellyous Challenge",
-		"cast": [
+		"casts": [
 			"CHANELLE MOON",
 			"YEWON",
 			"YUNAH (ILLIT)"
@@ -187,7 +187,7 @@
 		},
 		"platform": "youtube",
 		"series": "[Ministry of Education X FIFTY FIFTY] Together School Campaign",
-		"cast": [
+		"casts": [
 			"CHANELLE MOON",
 			"ATHENA"
 		]
@@ -231,7 +231,7 @@
 		},
 		"platform": "youtube",
 		"series": "Kep1er - BUBLE GUM Challenge",
-		"cast": [
+		"casts": [
 			"KEENA",
 			"CHAEHYUN (Kep1er)",
 			"DAYEON (Kep1er)"
@@ -277,7 +277,7 @@
 		},
 		"platform": "youtube",
 		"series": null,
-		"cast": [
+		"casts": [
 			"KEENA",
 			"YEWON",
 			"CHANELLE MOON",
@@ -329,7 +329,7 @@
 		},
 		"platform": "youtube",
 		"series": "[Ministry of Education X FIFTY FIFTY] Together School Campaign",
-		"cast": [
+		"casts": [
 			"KEENA",
 			"YEWON",
 			"CHANELLE MOON",
@@ -380,7 +380,7 @@
 		},
 		"platform": "youtube",
 		"series": "EBS Radio ‘Gyeongcheong’",
-		"cast": [
+		"casts": [
 			"KEENA",
 			"YEWON",
 			"CHAEHYUN (Kep1er)",
@@ -440,7 +440,7 @@
 		},
 		"platform": "youtube",
 		"series": "[STAY:SEE]",
-		"cast": [
+		"casts": [
 			"KEENA"
 		]
 	},
@@ -490,7 +490,7 @@
 		},
 		"platform": "youtube",
 		"series": "DNE - Hey, Come here",
-		"cast": [
+		"casts": [
 			"CHANELLE MOON",
 			"YEWON",
 			"DONGHAE (Super Junior)",
