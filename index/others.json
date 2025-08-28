@@ -1,7 +1,7 @@
 [
 	{
 		"id": "b6w8w6zhy7I",
-		"title": "FIFTY FIFTY - TAKE MY HAND (\u0027함께학교\u0027) DANCE CHALLENGE (하나\u0026예원ver.)",
+		"title": "FIFTY FIFTY - TAKE MY HAND ('함께학교') DANCE CHALLENGE (하나&예원ver.)",
 		"uploader": "GALACTIKA *",
 		"channel_id": "UCbH6KmHdx2LfM3g3YaHNpeg",
 		"channel_url": "https://www.youtube.com/channel/UCbH6KmHdx2LfM3g3YaHNpeg",
@@ -94,7 +94,7 @@
 	},
 	{
 		"id": "r2jhv3geK3E",
-		"title": "FIFTY FIFTY - TAKE MY HAND (\u0027함께학교\u0027 캠페인송 인터뷰 )",
+		"title": "FIFTY FIFTY - TAKE MY HAND ('함께학교' 캠페인송 인터뷰 )",
 		"uploader": "GALACTIKA *",
 		"channel_id": "UCbH6KmHdx2LfM3g3YaHNpeg",
 		"channel_url": "https://www.youtube.com/channel/UCbH6KmHdx2LfM3g3YaHNpeg",
@@ -192,7 +192,7 @@
 	},
 	{
 		"id": "ZwMKEiJwq0I",
-		"title": "FIFTY FIFTY - TAKE MY HAND (\u0027함께학교\u0027) DANCE CHALLENGE (샤넬\u0026아테나 ver.)",
+		"title": "FIFTY FIFTY - TAKE MY HAND ('함께학교') DANCE CHALLENGE (샤넬&아테나 ver.)",
 		"uploader": "GALACTIKA *",
 		"channel_id": "UCbH6KmHdx2LfM3g3YaHNpeg",
 		"channel_url": "https://www.youtube.com/channel/UCbH6KmHdx2LfM3g3YaHNpeg",
@@ -341,7 +341,7 @@
 	},
 	{
 		"id": "VxHZFB1lsq8",
-		"title": "FIFTY FIFTY - TAKE MY HAND (\u0027함께학교\u0027 캠페인송) Official M/V",
+		"title": "FIFTY FIFTY - TAKE MY HAND ('함께학교' 캠페인송) Official M/V",
 		"uploader": "GALACTIKA *",
 		"channel_id": "UCbH6KmHdx2LfM3g3YaHNpeg",
 		"channel_url": "https://www.youtube.com/channel/UCbH6KmHdx2LfM3g3YaHNpeg",
@@ -392,8 +392,55 @@
 		]
 	},
 	{
+		"id": "7EXd7W58b-o",
+		"title": "피프티피프티와 거의 피프티 | 쿠플쇼 | 쿠팡플레이 스포츠",
+		"uploader": "쿠팡플레이 스포츠",
+		"channel_id": "UCnBht7BrOx-A328KFXgysqQ",
+		"channel_url": "https://www.youtube.com/channel/UCnBht7BrOx-A328KFXgysqQ",
+		"duration": 28,
+		"duration_string": "28",
+		"upload_date": "20250821",
+		"timestamp": 1755770411,
+		"view_count": 50781,
+		"like_count": 1210,
+		"release_timestamp": null,
+		"comment_count": 108,
+		"description": "근호포키, 상협포키와 함께하는\n샤넬의 Pookie 챌린지 💞\n\n이들이 같이 춤추는 이유는?\n\n매주 월요일, 금요일 밤 10시\n신개념 스포츠쇼, 쿠플쇼에서 확인하세요 🙌",
+		"tags": [
+			"CHANELLE MOON",
+			"LEE KEUNHO",
+			"LIM SANGHYUB",
+			"Coupang Play Sports",
+			"Pookie Challenge"
+		],
+		"categories": [
+			"Challenges"
+		],
+		"live_status": "not_live",
+		"was_live": false,
+		"is_live": false,
+		"media_type": "short",
+		"webpage_url": "https://www.youtube.com/watch?v=7EXd7W58b-o",
+		"subtitles": null,
+		"thumbnail": "https://i.ytimg.com/vi/7EXd7W58b-o/hq720_2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYLiBaKH8wDw==&rs=AOn4CLD5Hvf8UuoOEe8NqFhX5axxeP2GAg",
+		"thumbnails": {
+			"default": "https://i.ytimg.com/vi/7EXd7W58b-o/default.jpg",
+			"mqdefault": "https://i.ytimg.com/vi/7EXd7W58b-o/mqdefault.jpg",
+			"hqdefault": "https://i.ytimg.com/vi/7EXd7W58b-o/hqdefault.jpg",
+			"sddefault": "https://i.ytimg.com/vi/7EXd7W58b-o/sddefault.jpg",
+			"maxresdefault": "https://i.ytimg.com/vi/7EXd7W58b-o/maxresdefault.jpg"
+		},
+		"platform": "youtube",
+		"series": "Pookie Challenge",
+		"cast": [
+			"CHANELLE MOON",
+			"LEE KEUNHO",
+			"LIM SANGHYUB"
+		]
+	},
+	{
 		"id": "yuGuHJNYWD0",
-		"title": "[LIVE] 피프티피프티 키나\u0026예원이 골라주는 느좋 브금 (◍•ᴗ•◍)❤ | 브금 이 순간 w. #FIFTYFIFTY #키나 #예원",
+		"title": "[LIVE] 피프티피프티 키나&예원이 골라주는 느좋 브금 (◍•ᴗ•◍)❤ | 브금 이 순간 w. #FIFTYFIFTY #키나 #예원",
 		"uploader": "EBS 청소년 소통 프로젝트 경청",
 		"channel_id": "UC3Vx6VDDFjWaPgd31d_7QpQ",
 		"channel_url": "https://www.youtube.com/channel/UC3Vx6VDDFjWaPgd31d_7QpQ",
@@ -549,6 +596,254 @@
 			"YEWON",
 			"DONGHAE (Super Junior)",
 			"EUNHYUK (Super Junior)"
+		]
+	},
+	{
+		"id": "_kfVzwbiniw",
+		"title": "FIFTY FIFTY 피프티 피프티 - POOKIE Making Film #몽베스트메이킹",
+		"uploader": "몽베스트",
+		"channel_id": "UCA8gN7mSQi4li_e2iVvEUzQ",
+		"channel_url": "https://www.youtube.com/channel/UCA8gN7mSQi4li_e2iVvEUzQ",
+		"duration": 251,
+		"duration_string": "4:11",
+		"upload_date": "20250509",
+		"timestamp": 1746777647,
+		"release_timestamp": null,
+		"description": "#montbestPERFORMANCE #FIFTYFIFTY #POOKIE\n\n🎥 FIFTY FIFTY 피프티피프티 'POOKIE' 촬영 현장 🎥",
+		"tags": [
+			"Montbest",
+			"KEENA",
+			"CHANELLE MOON",
+			"HANA",
+			"ATHENA",
+			"YEWON",
+			"Pookie"
+		],
+		"categories": [
+			"Behind The Scenes"
+		],
+		"live_status": "not_live",
+		"was_live": false,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://www.youtube.com/watch?v=_kfVzwbiniw",
+		"subtitles": null,
+		"thumbnail": "https://i.ytimg.com/vi_webp/_kfVzwbiniw/maxresdefault.webp",
+		"thumbnails": {
+			"default": "https://i.ytimg.com/vi/_kfVzwbiniw/default.jpg",
+			"mqdefault": "https://i.ytimg.com/vi/_kfVzwbiniw/mqdefault.jpg",
+			"hqdefault": "https://i.ytimg.com/vi/_kfVzwbiniw/hqdefault.jpg",
+			"sddefault": "https://i.ytimg.com/vi/_kfVzwbiniw/sddefault.jpg",
+			"maxresdefault": "https://i.ytimg.com/vi/_kfVzwbiniw/maxresdefault.jpg"
+		},
+		"platform": "youtube",
+		"series": "Montbest Performance",
+		"cast": [
+			"KEENA",
+			"CHANELLE MOON",
+			"HANA",
+			"ATHENA",
+			"YEWON"
+		]
+	},
+	{
+		"id": "B1mVX8DZpUM",
+		"title": "[FULL CAM] FIFTY FIFTY 피프티 피프티 - POOKIE #몽베스트퍼포먼스",
+		"uploader": "몽베스트",
+		"channel_id": "UCA8gN7mSQi4li_e2iVvEUzQ",
+		"channel_url": "https://www.youtube.com/channel/UCA8gN7mSQi4li_e2iVvEUzQ",
+		"duration": 158,
+		"duration_string": "2:38",
+		"upload_date": "20250509",
+		"timestamp": 1746777612,
+		"view_count": 967073,
+		"like_count": 16088,
+		"release_timestamp": null,
+		"comment_count": 444,
+		"description": "#montbestPERFORMANCE #FIFTYFIFTY #피프티피프티 #POOKIE\n\nCuz I'm your pookie 헷갈려도 아는 FIFTY FIFTY의 매력~💞\n피프티 피프티 매력으로 꽉 채운 풀캠 퍼포먼스!!",
+		"tags": [
+			"Montbest",
+			"KEENA",
+			"CHANELLE MOON",
+			"HANA",
+			"ATHENA",
+			"YEWON",
+			"Pookie"
+		],
+		"categories": [
+			"Performance"
+		],
+		"live_status": "not_live",
+		"was_live": false,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://www.youtube.com/watch?v=B1mVX8DZpUM",
+		"subtitles": "ko",
+		"thumbnail": "https://i.ytimg.com/vi_webp/B1mVX8DZpUM/maxresdefault.webp",
+		"thumbnails": {
+			"default": "https://i.ytimg.com/vi/B1mVX8DZpUM/default.jpg",
+			"mqdefault": "https://i.ytimg.com/vi/B1mVX8DZpUM/mqdefault.jpg",
+			"hqdefault": "https://i.ytimg.com/vi/B1mVX8DZpUM/hqdefault.jpg",
+			"sddefault": "https://i.ytimg.com/vi/B1mVX8DZpUM/sddefault.jpg",
+			"maxresdefault": "https://i.ytimg.com/vi/B1mVX8DZpUM/maxresdefault.jpg"
+		},
+		"platform": "youtube",
+		"series": "Montbest Performance",
+		"cast": [
+			"KEENA",
+			"CHANELLE MOON",
+			"HANA",
+			"ATHENA",
+			"YEWON"
+		]
+	},
+	{
+		"id": "wfAODJZH7SY",
+		"title": "FIFTY FIFTY 피프티 피프티 - POOKIE #몽베스트퍼포먼스",
+		"uploader": "몽베스트",
+		"channel_id": "UCA8gN7mSQi4li_e2iVvEUzQ",
+		"channel_url": "https://www.youtube.com/channel/UCA8gN7mSQi4li_e2iVvEUzQ",
+		"duration": 159,
+		"duration_string": "2:39",
+		"upload_date": "20250505",
+		"timestamp": 1746432059,
+		"release_timestamp": null,
+		"description": "#montbestPERFORMANCE #FIFTYFIFTY #피프티피프티 #POOKIE \n\n💞I’m your pookie in the morning \nI'm your pookie in the night \nFIFTY FIFTY만 보면 Super crazy 두근두근 Gets the vibe💞\n\n사랑스럽고 사랑스러운 요정 FIFTY FIFTY의 \n러블리함이 폭발한 [POOKIE] 퍼포먼스 비디오와 \n오직 몽베스트에만 볼 수 있는\n러블리 끝판왕 FIFTY FIFTY와의 [아이콘택트 캠] 쇼츠도 놓치지 마세요~❤️‍🔥\n\n또! 완벽한 퍼포먼스를 전부 볼 수 있는 [FULL CAM]은\n5월 9일 17시에 공개 예정입니다! [FULL CAM]도 놓치지 마세요!",
+		"tags": [
+			"Montbest",
+			"KEENA",
+			"CHANELLE MOON",
+			"HANA",
+			"ATHENA",
+			"YEWON",
+			"Pookie"
+		],
+		"categories": [
+			"Performance"
+		],
+		"live_status": "not_live",
+		"was_live": false,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://www.youtube.com/watch?v=wfAODJZH7SY",
+		"subtitles": "ko",
+		"thumbnail": "https://i.ytimg.com/vi_webp/wfAODJZH7SY/maxresdefault.webp",
+		"thumbnails": {
+			"default": "https://i.ytimg.com/vi/wfAODJZH7SY/default.jpg",
+			"mqdefault": "https://i.ytimg.com/vi/wfAODJZH7SY/mqdefault.jpg",
+			"hqdefault": "https://i.ytimg.com/vi/wfAODJZH7SY/hqdefault.jpg",
+			"sddefault": "https://i.ytimg.com/vi/wfAODJZH7SY/sddefault.jpg",
+			"maxresdefault": "https://i.ytimg.com/vi/wfAODJZH7SY/maxresdefault.jpg"
+		},
+		"platform": "youtube",
+		"series": "Montbest Performance",
+		"cast": [
+			"KEENA",
+			"CHANELLE MOON",
+			"HANA",
+			"ATHENA",
+			"YEWON"
+		]
+	},
+	{
+		"id": "HgILcBXd1Ss",
+		"title": "[PLAY COLOR | 4K] FIFTY FIFTY (피프티피프티) - SOS",
+		"uploader": "GENIE MUSIC",
+		"channel_id": "UCd-OrgPLrnQiQBcq19j5oEQ",
+		"channel_url": "https://www.youtube.com/channel/UCd-OrgPLrnQiQBcq19j5oEQ",
+		"duration": 203,
+		"duration_string": "3:23",
+		"upload_date": "20240921",
+		"timestamp": 1726912815,
+		"release_timestamp": null,
+		"description": "Can you hear my SOS?🚨 \n지금 피프티피프티에 빠지고 갇힌 사람 여기 있어요🙋‍♀️\n\n02:41 청춘영화 한 장면 같은 FIFTY FIFTY 플레이컬러🧡\n\nFIFTY FIFTY 플레이컬러 비하인드 영상🎥\n👉https://youtu.be/MkEcTIfZHqo\n_\n#FIFTYFIFTY #피프티피프티 #SOS #genieoriginal",
+		"tags": [
+			"Genie Music",
+			"PLAY COLOR",
+			"SOS",
+			"KEENA",
+			"CHANELLE MOON",
+			"HANA",
+			"ATHENA",
+			"YEWON"
+		],
+		"categories": [
+			"Performance"
+		],
+		"live_status": "not_live",
+		"was_live": false,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://www.youtube.com/watch?v=HgILcBXd1Ss",
+		"subtitles": null,
+		"thumbnail": "https://i.ytimg.com/vi_webp/HgILcBXd1Ss/maxresdefault.webp",
+		"thumbnails": {
+			"default": "https://i.ytimg.com/vi/HgILcBXd1Ss/default.jpg",
+			"mqdefault": "https://i.ytimg.com/vi/HgILcBXd1Ss/mqdefault.jpg",
+			"hqdefault": "https://i.ytimg.com/vi/HgILcBXd1Ss/hqdefault.jpg",
+			"sddefault": "https://i.ytimg.com/vi/HgILcBXd1Ss/sddefault.jpg",
+			"maxresdefault": "https://i.ytimg.com/vi/HgILcBXd1Ss/maxresdefault.jpg"
+		},
+		"platform": "youtube",
+		"series": "PLAY COLOR",
+		"cast": [
+			"KEENA",
+			"CHANELLE MOON",
+			"HANA",
+			"ATHENA",
+			"YEWON"
+		]
+	},
+	{
+		"id": "VokJTNgs9PI",
+		"title": "(4K) FIFTY FIFTY - \"SOS\" (English Ver.) Live Performance | 82Live",
+		"uploader": "hello82",
+		"channel_id": "UC1HHeTLXHMM5FiEyQpS1toA",
+		"channel_url": "https://www.youtube.com/channel/UC1HHeTLXHMM5FiEyQpS1toA",
+		"duration": 217,
+		"duration_string": "3:37",
+		"upload_date": "20240920",
+		"timestamp": 1726808426,
+		"release_timestamp": 1726808426,
+		"description": "This is FIFTY FIFTY's first exclusive LIVE performance of 'SOS' 🎤\n\nFrom their new album [Love Tune], FIFTY FIFTY came to perform their title track 'SOS' in English faster than anywhere else!\nCheck out their one and only live performance at 82Live💕\n \n(Don't miss out on the Signed Polaroid Event!🎉)\n\n#82Live_FIFTYFIFTY #FIFTYFIFTYxhello82\n#FIFTYFIFTY #피프티피프티 #hello82 #SOS\n\n💙 Follow hello82 \n• Twitter - https://twitter.com/hello82official\n• Instagram - https://instagram.com/hello82official\n• TikTok - https://tiktok.com/@hello82official​\n\n🛒 Official hello82 shop\n• Shop - https://hello82.shop/\n\n📺 Watch hello82 content in other languages\n• Spanish - https://youtube.com/hola82\n• Indonesian - https://youtube.com/halo82\n• Portuguese - https://youtube.com/oi82\n• Arabic - https://youtube.com/ahlan82",
+		"tags": [
+			"hello82",
+			"82Live",
+			"SOS",
+			"KEENA",
+			"CHANELLE MOON",
+			"YEWON",
+			"HANA",
+			"ATHENA"
+		],
+		"categories": [
+			"Live Performance"
+		],
+		"live_status": "not_live",
+		"was_live": false,
+		"is_live": false,
+		"media_type": "video",
+		"webpage_url": "https://www.youtube.com/watch?v=VokJTNgs9PI",
+		"subtitles": [
+			"en",
+			"ko"
+		],
+		"thumbnail": "https://i.ytimg.com/vi/VokJTNgs9PI/maxresdefault.jpg",
+		"thumbnails": {
+			"default": "https://i.ytimg.com/vi/VokJTNgs9PI/default.jpg",
+			"mqdefault": "https://i.ytimg.com/vi/VokJTNgs9PI/mqdefault.jpg",
+			"hqdefault": "https://i.ytimg.com/vi/VokJTNgs9PI/hqdefault.jpg",
+			"sddefault": "https://i.ytimg.com/vi/VokJTNgs9PI/sddefault.jpg",
+			"maxresdefault": "https://i.ytimg.com/vi/VokJTNgs9PI/maxresdefault.jpg"
+		},
+		"platform": "youtube",
+		"series": "82Live",
+		"cast": [
+			"KEENA",
+			"CHANELLE MOON",
+			"YEWON",
+			"HANA",
+			"ATHENA"
 		]
 	}
 ]
