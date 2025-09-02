@@ -1,5 +1,44 @@
 [
 	{
+		"id": "2-163547293",
+		"title": "크앙",
+		"uploader": "HANA",
+		"channel_id": "221",
+		"channel_url": "https://weverse.io/fiftyfifty",
+		"duration": 1858,
+		"duration_string": "30:58",
+		"upload_date": "20250829",
+		"timestamp": 1756464160,
+		"release_timestamp": 1756464160,
+		"description": "",
+		"tags": [
+			"HANA",
+			"CHANELLE MOON",
+			"Cover",
+			"Live Performance"
+		],
+		"categories": null,
+		"live_status": "was_live",
+		"was_live": true,
+		"is_live": false,
+		"media_type": null,
+		"webpage_url": "https://weverse.io/fiftyfifty/live/2-163547293",
+		"subtitles": null,
+		"thumbnail": "https://phinf.wevpstatic.net/MjAyNTA4MjlfMjEz/MDAxNzU2NDY0MTQ3MDI1.2kQpTzo4rmw_JcnJHm6sZokHat9wbf3_wgmeV_tYk8og.nWtaer8YJuuRaGgICJ_NwJbZSBDbO5gfgv_1s6VBi3wg.JPEG/image.jpg",
+		"thumbnails": [
+			{
+				"url": "https://phinf.wevpstatic.net/MjAyNTA4MjlfMjEz/MDAxNzU2NDY0MTQ3MDI1.2kQpTzo4rmw_JcnJHm6sZokHat9wbf3_wgmeV_tYk8og.nWtaer8YJuuRaGgICJ_NwJbZSBDbO5gfgv_1s6VBi3wg.JPEG/image.jpg",
+				"id": "0"
+			}
+		],
+		"platform": "Weverse",
+		"series": null,
+		"cast": [
+			"HANA",
+			"CHANELLE MOON"
+		]
+	},
+	{
 		"id": "3-207647941",
 		"title": "🤫 pt2",
 		"uploader": "CHANELLE MOON",
@@ -11,7 +50,12 @@
 		"timestamp": 1756352781,
 		"release_timestamp": 1756352781,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"HANA",
+			"CHANELLE MOON",
+			"Cover",
+			"Live Performance"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -144,7 +188,11 @@
 		"timestamp": 1755425503,
 		"release_timestamp": 1755425503,
 		"description": "",
-		"tags": null,
+		"tags": [
+			"KEENA",
+			"ATHENA",
+			"Mukbang"
+		],
 		"categories": null,
 		"live_status": "was_live",
 		"was_live": true,
@@ -160,7 +208,8 @@
 			}
 		],
 		"casts": [
-			"KEENA"
+			"KEENA",
+			"ATHENA"
 		],
 		"platform": "weverse",
 		"series": null
